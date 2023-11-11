@@ -1,5 +1,6 @@
 <h1>Starbucks</h1>
 
+This is a cafe application and allows the user to get information about the cafe.
 
 <h2> External Usage </h2>
 
